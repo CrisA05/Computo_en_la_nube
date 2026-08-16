@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\Cena de filosofos\\Cena de filosofos.csproj",
+      "projectUniqueName": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Cena de filosofos.csproj",
       "projectName": "Cena de filosofos",
-      "projectPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\Cena de filosofos\\Cena de filosofos.csproj",
+      "projectPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Cena de filosofos.csproj",
       "packagesPath": "C:\\Users\\CRIST\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\Cena de filosofos\\obj\\",
+      "outputPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.AssemblyInfoInputs.cache
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.AssemblyInfo.cs
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.csproj.CoreCompileInputs.cache
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.sourcelink.json
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\bin\Debug\net8.0\Cena de filosofos.exe
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\bin\Debug\net8.0\Cena de filosofos.deps.json
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\bin\Debug\net8.0\Cena de filosofos.runtimeconfig.json
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\bin\Debug\net8.0\Cena de filosofos.dll
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\bin\Debug\net8.0\Cena de filosofos.pdb
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.dll
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\refint\Cena de filosofos.dll
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.pdb
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\Cena de filosofos.genruntimeconfig.cache
+C:\Users\CRIST\OneDrive\Documentos\GitHub\Computo_en_la_nube\Cena de filosofos\Cena de filosofos\obj\Debug\net8.0\ref\Cena de filosofos.dll

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\",
+  "WorkspaceRootPath": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|c:\\users\\crist\\onedrive\\documentos\\github\\cena de filosofos\\cena de filosofos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|solutionrelative:cena de filosofos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|c:\\users\\crist\\onedrive\\documentos\\github\\computo_en_la_nube\\cena de filosofos\\cena de filosofos\\mainapplicaiton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|solutionrelative:cena de filosofos\\mainapplicaiton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|c:\\users\\crist\\onedrive\\documentos\\github\\computo_en_la_nube\\cena de filosofos\\cena de filosofos\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|solutionrelative:cena de filosofos\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|c:\\users\\crist\\onedrive\\documentos\\github\\computo_en_la_nube\\cena de filosofos\\cena de filosofos\\fork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F29462B-415B-4E0D-A2FD-23502FAB0D30}|Cena de filosofos\\Cena de filosofos.csproj|solutionrelative:cena de filosofos\\fork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fork.cs",
+              "DocumentMoniker": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Fork.cs",
+              "RelativeDocumentMoniker": "Cena de filosofos\\Fork.cs",
+              "ToolTip": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Fork.cs",
+              "RelativeToolTip": "Cena de filosofos\\Fork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:14:48.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Philosopher.cs",
+              "DocumentMoniker": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Philosopher.cs",
+              "RelativeDocumentMoniker": "Cena de filosofos\\Philosopher.cs",
+              "ToolTip": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\Philosopher.cs",
+              "RelativeToolTip": "Cena de filosofos\\Philosopher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:11:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\Cena de filosofos\\Program.cs",
-              "RelativeDocumentMoniker": "Cena de filosofos\\Program.cs",
-              "ToolTip": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Cena de filosofos\\Cena de filosofos\\Program.cs*",
-              "RelativeToolTip": "Cena de filosofos\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "MainApplicaiton.cs",
+              "DocumentMoniker": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\MainApplicaiton.cs",
+              "RelativeDocumentMoniker": "Cena de filosofos\\MainApplicaiton.cs",
+              "ToolTip": "C:\\Users\\CRIST\\OneDrive\\Documentos\\GitHub\\Computo_en_la_nube\\Cena de filosofos\\Cena de filosofos\\MainApplicaiton.cs",
+              "RelativeToolTip": "Cena de filosofos\\MainApplicaiton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-16T18:58:07.537Z",
               "EditorCaption": ""
