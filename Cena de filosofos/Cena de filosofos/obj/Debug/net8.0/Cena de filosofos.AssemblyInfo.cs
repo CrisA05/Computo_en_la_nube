@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cena de filosofos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b20cefb3cc2414a77e8fde52f525436f17db64f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca5614fdeae0c76f186f742e5785bab081230ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cena de filosofos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cena de filosofos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
